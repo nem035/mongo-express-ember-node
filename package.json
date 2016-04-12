@@ -1,0 +1,10 @@
+{
+  "name": "mongo-express-ember-node",
+  "version": "0.1.0",
+  "description": "Starter project for a MEEN stack web app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nemanja Stojanovic",
+  "license": "MIT"
+}
