@@ -49,8 +49,3 @@ License
 -------
 
 MIT
-
-TODO
-----
-
-- Add Babel support
