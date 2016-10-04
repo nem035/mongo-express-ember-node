@@ -28,7 +28,7 @@ Create a `_config` folder at the top level of `./server` with `development.json`
 {
   "HOST"   : "http://localhost",
   "PORT"   : 3000,
-  "NAME"   : "{app name}}",
+  "NAME"   : "{app name}",
   "DB_URI" : "{mongo db url}"
 } 
 ```
@@ -44,6 +44,8 @@ cd server && npm start
 cd ..
 cd client && ember s
 ```
+
+Navigate to `http://localhost:4200/user` to see examples.
 
 License
 -------
